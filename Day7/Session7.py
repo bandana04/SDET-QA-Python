@@ -19,5 +19,10 @@
 #1. instance method (we can call only through object)
 #2. static method (we can directly call using class)
 
+#Method and Constructor
+#Method : Give any name, return value, method can take arguments/parameters, we have to use an object to invoke the method
+#Constructor : constructor name is fixed : def  __init__(self)  , will not return any value, can also take arguments/parameters, constructor will be called at the time of object creation itself
+
+
 
 
